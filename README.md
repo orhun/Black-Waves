@@ -17,6 +17,10 @@ Use the extensions tab within VSCode, search for "Black Waves" and then click th
 
 Clone the repository into VSCode `extensions` folder and restart the editor.
 
+### OpenVSX
+
+Black Waves is also available on [Open VSX Registry](https://open-vsx.org/extension/orhun/black-waves).
+
 ## License
 
 GNU General Public License ([v3](https://www.gnu.org/licenses/gpl.txt))
